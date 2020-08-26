@@ -1,8 +1,13 @@
-### Hi there 👋
+## Hey, you! 🦊
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BexB1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+I'm Bex, a UK-based Web Developer. I code mostly in JavaScript and Ruby, but I'm always tinkering in something new. I like makin' stuff an' doin' good.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BexB1)](https://github.com/anuraghazra/github-readme-stats)
+### Say howdy 🤠
+- https://www.bexbolton.com [](https://www.bexbolton.com)
+- https://www.linkedin.com/in/bexbolton/ [](https://www.linkedin.com/in/bexbolton/)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BexB1&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BexB1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
