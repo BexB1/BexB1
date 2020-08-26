@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/9282824/91348008-14245180-e7db-11ea-8139-605e44b4608d.png">
+<img src="https://user-images.githubusercontent.com/9282824/91348008-14245180-e7db-11ea-8139-605e44b4608d.png" alt="Logo: B Bolton Web solutions" width="75px">
 
 ## Hey, you! 🦊
 
