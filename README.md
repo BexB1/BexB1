@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/9282824/91348008-14245180-e7db-11ea-8139-605e44b4608d.png" alt="Logo: B Bolton Web solutions" width="75px">
 
-## Hey, you! 🦊
+## Hey, you! 👋🏻
 
 I'm Bex, a UK-based Web Developer. I code mostly in JavaScript and Ruby, but I'm always tinkering in something new. I like makin' stuff an' doin' good.
 
