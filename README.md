@@ -2,7 +2,7 @@
 
 ## Hey, you! 👋🏻
 
-I'm Bex, a UK-based Web Developer. I code mostly in JavaScript and Ruby, but I'm always tinkering in something new. I like makin' stuff an' doin' good.
+I'm Bex, a UK-based Web Developer. I code mostly in JavaScript and Ruby, but I'm always tinkering in something new. I like making stuff and doing good.
 
 ### Whatcha buildin', Bex? 🔨👷🏻‍♀️
 
